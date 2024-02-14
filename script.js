@@ -38,63 +38,63 @@ btn.onclick = () => {
     }
 
     if (player_1 == 0) {
-        place_1.style.backgroundImage = "url('img/dice1.png')";
+        place_1.style.backgroundImage = "url('dice1.png')";
         place_1.style.backgroundSize = "100% 100%";
         place_1.innerHTML = '';
     }
     else if (player_1 == 1) {
-        place_1.style.backgroundImage = "url('img/dice2.png')";
+        place_1.style.backgroundImage = "url('dice2.png')";
         place_1.style.backgroundSize = "100% 100%";
         place_1.innerHTML = '';
     }
     else if (player_1 == 2) {
-        place_1.style.backgroundImage = "url('img/dice3.png')";
+        place_1.style.backgroundImage = "url('dice3.png')";
         place_1.style.backgroundSize = "100% 100%";
         place_1.innerHTML = '';
     }
     else if (player_1 == 3) {
-        place_1.style.backgroundImage = "url('img/dice4.png')";
+        place_1.style.backgroundImage = "url('dice4.png')";
         place_1.style.backgroundSize = "100% 100%";
         place_1.innerHTML = '';
     }
     else if (player_1 == 4) {
-        place_1.style.backgroundImage = "url('img/dice5.png')";
+        place_1.style.backgroundImage = "url('dice5.png')";
         place_1.style.backgroundSize = "100% 100%";
         place_1.innerHTML = '';
     }
     else if (player_1 == 5) {
-        place_1.style.backgroundImage = "url('img/dice6.png')";
+        place_1.style.backgroundImage = "url('dice6.png')";
         place_1.style.backgroundSize = "100% 100%";
         place_1.innerHTML = '';
     }
 
     if (player_2 == 0) {
-        place_2.style.backgroundImage = "url('img/dice1.png')";
+        place_2.style.backgroundImage = "url('dice1.png')";
         place_2.style.backgroundSize = "100% 100%";
         place_2.innerHTML = '';
     }
     else if (player_2 == 1) {
-        place_2.style.backgroundImage = "url('img/dice2.png')";
+        place_2.style.backgroundImage = "url('dice2.png')";
         place_2.style.backgroundSize = "100% 100%";
         place_2.innerHTML = '';
     }
     else if (player_2 == 2) {
-        place_2.style.backgroundImage = "url('img/dice3.png')";
+        place_2.style.backgroundImage = "url('dice3.png')";
         place_2.style.backgroundSize = "100% 100%";
         place_2.innerHTML = '';
     }
     else if (player_2 == 3) {
-        place_2.style.backgroundImage = "url('img/dice4.png')";
+        place_2.style.backgroundImage = "url('dice4.png')";
         place_2.style.backgroundSize = "100% 100%";
         place_2.innerHTML = '';
     }
     else if (player_2 == 4) {
-        place_2.style.backgroundImage = "url('img/dice5.png')";
+        place_2.style.backgroundImage = "url('dice5.png')";
         place_2.style.backgroundSize = "100% 100%";
         place_2.innerHTML = '';
     }
     else if (player_2 == 5) {
-        place_2.style.backgroundImage = "url('img/dice6.png')";
+        place_2.style.backgroundImage = "url('dice6.png')";
         place_2.style.backgroundSize = "100% 100%";
         place_2.innerHTML = '';
     }
