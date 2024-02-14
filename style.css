@@ -5,9 +5,10 @@
     text-decoration: none;
     scroll-behavior: smooth;
     outline: none;
-    color: lightblue;
+    color: black;
     font-family: monospace;
     transition: all 0.5s;
+    background-color:blue;
 }
 
 section{
